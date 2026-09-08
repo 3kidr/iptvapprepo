@@ -2,23 +2,23 @@
   "revision": "2026-09-08",
   "banners": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/3kidr/iptvapprepo/refs/heads/main/iers.png",
+      "imageUrl": "https://i.imgur.com/CvgocZ3.png",
       "overline": "AL-PROBOX IPTV",
       "title": "LIVE TV, MOVIES & MORE",
       "subtitle": "Your favorite channels, all in one place.",
       "tagline": ""
     },
     {
-      "imageUrl": "https://raw.githubusercontent.com/3kidr/iptvapprepo/refs/heads/main/iers.png",
-      "overline": "TEST2",
-      "title": "TEST2",
-      "subtitle": "AAA",
+      "imageUrl": "https://i.imgur.com/hK3fTNX.png",
+      "overline": "AL-PROBOX IPTV",
+      "title": "LATEST SERIES",
+      "subtitle": "SQUID GAME",
       "tagline": ""
     },
     {
-      "imageUrl": "https://raw.githubusercontent.com/3kidr/iptvapprepo/refs/heads/main/iers.png",
-      "overline": "tEST3",
-      "title": "BINGE THE BEST SERIES",
+      "imageUrl": "https://i.imgur.com/VCa2e2m.png",
+      "overline": "AL-PROBOX IPTV",
+      "title": "BRING THE BEST SERIES",
       "subtitle": "Follow every season, every episode.",
       "tagline": ""
     }
